@@ -10,6 +10,6 @@
 - [x]  Lab 01 - 11 / 08
     - Apresentação do Professor / Disciplina
     - Divisão dos Laboratórios
-- [x]  Lab 02 - 18/08
+- [x]  Lab 02 - 18 / 08
     - Preparação do Ambiente
     - Operações, Expressões e Variáveis
