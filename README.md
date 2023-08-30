@@ -5,6 +5,9 @@
 ## Turmas
 - 1º / 2º Semestre Ciência da Computação - Campus Paulista
 
+## Códigos Disponibilizados
+- Todos os códigos disponibilizados são notebooks jupyter que podem ser baixados e abertos no Google Colab.
+
 ## Cronograma - Aulas de Laboratório 
 
 - [x]  Lab 01 - 11 / 08
