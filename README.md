@@ -13,3 +13,7 @@
 - [x]  Lab 02 - 18 / 08
     - Preparação do Ambiente
     - Operações, Expressões e Variáveis
+- [x]  Lab 03 - 25 / 08
+    - Estrutura Condicional
+- [x]  Lab 04 - 01 / 09
+    - Estruturas de Repetição
