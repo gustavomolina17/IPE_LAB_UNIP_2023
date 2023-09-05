@@ -24,3 +24,5 @@
     - Estrutura Condicional
 - [x]  Lab 04 - 01 / 09
     - Estruturas de Repetição
+- [x]  Lab 05 - 08 / 09 - Feriado (Não haverá aula)
+    - Lista de exercícios de revisão
